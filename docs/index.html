@@ -28,6 +28,10 @@
     window.$docsify = {
         loadSidebar: true,
 
+        plugins: [
+            EditOnGithubPlugin.create(docBase, docEditBase, title)
+        ],
+
         search: {
             maxAge: 180000,
             // maxAge: 60, //
@@ -49,6 +53,8 @@
 </script>
 
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
 
 <!-- Required -->
