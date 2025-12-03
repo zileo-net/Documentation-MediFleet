@@ -1,6 +1,6 @@
 # Utilisateurs
 
-> Users landing page
+> Users landing page 
 
 # Un collaborateur quitte l'entreprise, que faire?
 
