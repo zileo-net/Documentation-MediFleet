@@ -29,8 +29,13 @@
         loadSidebar: true,
 
         plugins: [
-            EditOnGithubPlugin.create('https://github.com/nominae/nominae.github.io/docs/')
+            EditOnGithubPlugin.create(
+                'https://github.com/nominae/nominae.github.io/docs/',
+                null,
+                'edit on git'
+            )
         ],
+
 
         search: {
             maxAge: 180000,
