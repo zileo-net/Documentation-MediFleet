@@ -1,4 +1,5 @@
 # Configuration générale
+<img width="662" height="404" alt="Capture d’écran 2023-09-12 à 12 16 51" src="https://github.com/user-attachments/assets/3d66d028-b128-47ba-8bbc-f1d93b011b3d" />
 
 # Comment fonctionne la facturation électronique ? (Peppol)
 
@@ -37,4 +38,3 @@
 
 
 
-<img width="662" height="404" alt="Capture d’écran 2023-09-12 à 12 16 51" src="https://github.com/user-attachments/assets/229e57f4-1b17-4e49-a088-3d93e5d2862e" />
