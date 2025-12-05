@@ -1,8 +1,15 @@
 # Configuration générale
+
+
 <img width="662" height="404" alt="Capture d’écran 2023-09-12 à 12 16 51" src="https://github.com/user-attachments/assets/3d66d028-b128-47ba-8bbc-f1d93b011b3d?raw=true" />
 
 
-![alt image local assets directory ](/docs/assets/zileo-logo.png)
+![alt image local assets directory 1 ](/docs/assets/zileo-logo.png)
+![alt image local assets directory 2 ](/Documentation-MediFleet/docs/assets/zileo-logo.png)
+![alt image local assets directory 3 ](/zileo-net.github.io/Documentation-MediFleet/docs/assets/zileo-logo.png)
+
+![logo](https://zileo-net.github.io/Documentation-MediFleet/docs/assets/zileo-logo.png ':size=WIDTHxHEIGHT')
+
 
 ![alt image hosted in issue 1](https://private-user-images.githubusercontent.com/79855550/522890877-2cfad1c9-d464-41c4-8023-11e5a1eaf95e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ5MzA0MjcsIm5iZiI6MTc2NDkzMDEyNywicGF0aCI6Ii83OTg1NTU1MC81MjI4OTA4NzctMmNmYWQxYzktZDQ2NC00MWM0LTgwMjMtMTFlNWExZWFmOTVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA1VDEwMjIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkYWJmNmRmMTMyZGE4Y2RjMTUwYjRiZTRjYzQxMTNkOGI1NmQ5YzQzMTdkYmU5ZTI1Y2MyMmNiZTg4YmZiZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.afMAhl3BIoH2AyRmTMmUNFMEgk1fY13OcO68NlLC41w?raw=true)
 
