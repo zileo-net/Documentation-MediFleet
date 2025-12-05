@@ -3,6 +3,7 @@
 
 ![logo](https://zileo-net.github.io/Documentation-MediFleet/docs/assets/zileo-logo.png ':size=WIDTHxHEIGHT')
 
+<img width="662" height="404" alt="Capture d’écran 2023-09-12 à 12 16 51" src="https://github.com/user-attachments/assets/80ef2c21-314a-4443-8c58-73823eb44a3d" />
 
 
 
