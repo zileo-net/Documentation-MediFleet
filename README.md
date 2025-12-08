@@ -18,6 +18,8 @@ Les fichiers représentant la documentation sont les `*.md` se trouvant dans les
 
 Pour enregistre une modification, il faut utiliser le bouton vers "Commit changes..." en haut à droite de chaque fichier.
 
+> À noter : 1 retour à la ligne dans les fichiers `*.md` n'a pas de rendu visuel mais permet de faciliter la lecture en mode édition ; pour espacer 2 paragraphes il y a lieu de mettre 2 retours à la ligne.
+
 ## Ajout d'une nouvelle page
 
 Il suffit d'ajouter un document `.md` quelque part dans le dossier `docs` et d'indexer celui-ci dans le fichier `docs/_sidebar.md`.
