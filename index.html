@@ -28,10 +28,10 @@
     window.$docsify = {
         loadSidebar: true,
         basePath: '/Documentation-MediFleet/docs/',
-        // alias: {
-        //     '/.*/_sidebar.md': '/docs/_sidebar.md',
-        //     '/.*/README.md': '/docs/README.md',
-        // },
+        alias: {
+            '/.*/_sidebar.md': '/docs/_sidebar.md',
+            '/.*/README.md': '/docs/README.md',
+        },
         subMaxLevel: 3,
         // plugins: [
         //     EditOnGithubPlugin.create(
@@ -55,12 +55,18 @@
             crossChapter: true,
             crossChapterText: true,
         },
+        timeUpdater: {
+            text: ">Dernière modification le: {docsify-updated}",
+            formatUpdated: "{DD}/{MM}/{YYYY}",
+            whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+        },
     };
 </script>
 
 <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
 <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
 
 
 <!-- Required -->
