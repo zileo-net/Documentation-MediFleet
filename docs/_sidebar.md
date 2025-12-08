@@ -1,12 +1,11 @@
 - FAQ test docsify
   - [Retour](/)
-  - [Config. Générale](config/configLandingPage.md)
-  - [Utilisateurs](users/usersLandingPage.md)
-  - [Clients](clients/clientsLandingPage.md)
-  - [Facturation](facture/invoicingLandingPage.md)
-  - [Facturation électronique](facture/peppol.md)
-  - [Application mobile](mobile/mobileLandingPage.md)
-  - [Dispatching](dispatching/dispatchingLandingPage.md)
+  - [Config. Générale](configuration/configuration)
+  - [Utilisateurs](utilisateurs/utilisateurs)
+  - [Clients](clients/clients)
+  - [Facturation](facturation/facturation)
+  - [Application mobile](appMobile/appMobile)
+  - [Dispatching](dispatching/dispatching)
 
 
 [//]: # (    - [Custom navbar]&#40;custom-navbar.md&#41;)
