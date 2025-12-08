@@ -35,13 +35,14 @@
         homepage: 'homepage.md',
         subMaxLevel: 3,
         auto2top: true,
-        // plugins: [
-        //     EditOnGithubPlugin.create(
-        //         'https://github.com/nominae/nominae.github.io/docs/',
-        //     )
-        // ],
+        notFoundPage: '404.html',
+        plugins: [
+            EditOnGithubPlugin.create(
+                'https://github.com/zileo-net.github.io/documentation-medifleet/docs/',
+            )
+        ],
 
-
+        
         search: {
             maxAge: 180000,
             paths: 'auto',
