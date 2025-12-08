@@ -1,5 +1,8 @@
 # La facturation électronique (Peppol)
 
+<img width="492" height="137" alt="image" src="https://github.com/user-attachments/assets/5c4d1e69-66de-4b0d-b6d8-5c43a74ac675" />
+
+
 Obligation légale à partir du 1er janvier 2026, pour les factures (et notes de crédit) à destination **des entreprises européennes assujetties à la TVA**, 
 MediFleet vous permet d'envoyer vos factures via le réseau européen _Peppol_. Pour information, cela couvre aussi le cas des institutions qui voudraient 
 recevoir leur facture via le portail _Mercurius_ ; l'envoi via Peppol aura le même effet.
