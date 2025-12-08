@@ -4,7 +4,7 @@ _Remarque : Ce repository est et doit rester public pour permettre l'affichage d
 
 ## Lien public
 
-La documentation est accessible ici : https://zileo-net.github.io/Documentation-MediFleet/
+La documentation est accessible ici : https://guide.medifleet.be/
 
 Après une ou plusieurs modifications des fichiers *.md dans ce respository, il y a lieu de "publier" ces modifications en allant dans l'onglet "Actions", choisir "Deploy Docsify" dans la colonne de gauche, puis exécuter l'action "Run Workflow".
 
